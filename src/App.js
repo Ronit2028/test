@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn hello
+          Learn dukh, dard, peeda
         </a>
       </header>
     </div>
