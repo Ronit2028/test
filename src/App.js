@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn dukh, dard, peeda
+          AI tools : ChatGPT, Bard, Copilot, Claude       
         </a>
       </header>
     </div>
